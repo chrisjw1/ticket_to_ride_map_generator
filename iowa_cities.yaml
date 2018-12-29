@@ -1,0 +1,111 @@
+# Locations are taken relative to the top left corner of the XLVIII grid space (containing larchwood)
+image_meta_info:
+  width_px: 12281
+  height_px: 9922
+
+output_meta_info:
+  width_in: 30
+  height_in: 20
+  px_per_in: 25.4
+
+cities:
+  -
+    name: "Top Left Corner"
+    x: 812
+    y: 1867
+
+  -
+    name: "Bottom Right Corner"
+    x: 9500
+    y: 9100
+
+  -
+    name: "Pattersonville"
+    x: 1565
+    y: 2600
+
+  -
+    name: "Sheridan"
+    x: 1767
+    y : 2605
+
+  -
+    name: "Sheldon"
+    x: 2021
+    y: 2645
+
+  -
+    name: "Gilman"
+    x: 2135
+    y: 2351
+
+  -
+    name: "Sibley"
+    x: 2200
+    y: 2160
+
+  -
+    name: "Cedar Falls"
+    x: 7675
+    y: 4181
+
+  -
+    name: "Ackly"
+    x: 6645
+    y: 4141
+
+  -
+    name: "Marshaltown"
+    x: 6867
+    y: 5275
+
+  -
+    name: "Cedar Rapids"
+    x: 9000
+    y: 5425
+
+  -
+    name: "Davenport"
+    x: 10860
+    y: 6445
+
+  -
+    name: "Burlington"
+    x: 9955
+    y: 8077
+
+connections:
+  -
+    start: "Cedar Falls"
+    end: "Marshaltown"
+    primary_color: "red"
+    secondary_color: "blue"
+    length: 3
+
+
+#  -
+#    name:
+#    x:
+#    y:
+#
+#  -
+#    name:
+#    x:
+#    y:
+#
+#  -
+#    name:
+#    x:
+#    y:
+#
+#
+#  -
+#    name:
+#    x:
+#    y:
+#
+#  -
+#    name:
+#    x:
+#    y:
+
